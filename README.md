@@ -33,7 +33,7 @@ I'm actively involved in the open-source community, and I enjoy collaborating on
 I believe in continuous learning and staying updated with the latest trends in web development. Currently, I'm exploring serverless architecture and microservices to scale applications efficiently.
 
 ## Connect with Me
-Let's connect and collaborate on exciting projects! Feel free to reach out to me via email at [your-email@example.com] or connect with me on https://www.linkedin.com/in/dennis-wachira-032797247/ for professional networking.
+Let's connect and collaborate on exciting projects! Feel free to reach out to me via email at dwachira285@gmail.com or connect with me on https://www.linkedin.com/in/dennis-wachira-032797247/ for professional networking.
 
 Looking forward to sharing knowledge and contributing to the developer community together! Happy coding! 🚀
 <!---
